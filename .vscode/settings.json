@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Mission2025-AR_.sln"
+    "dotnet.defaultSolution": "Mission2025-AR.sln"
 }
